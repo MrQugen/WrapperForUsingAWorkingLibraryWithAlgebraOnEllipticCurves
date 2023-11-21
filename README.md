@@ -1,5 +1,3 @@
-# WrapperForUsingAWorkingLibraryWithAlgebraOnEllipticCurves
-# ECCWrapper
 # Під час виконання роботи використовувався ChatGPT!!!
 
 Цей проект містить клас `ECCWrapper`, який є обгорткою для роботи з еліптичними кривими з використанням бібліотеки Bouncy Castle в мові програмування C#.
